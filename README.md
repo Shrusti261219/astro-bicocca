@@ -5,4 +5,7 @@ projects done during my Masters in bicocca.
    
 2. lab of data analysis {This was my project on galaxy formation and evolution, where we developed models ranging from simple closed-box approaches to more complex open-box models. In this lab, we explored the intricate feedback processes of supernovae and the influence of gas inflow on the pristine gas reservoir. Moreover, we utilised data from the Sloan Digital Sky Survey (SDSS) to enhance our understanding and refine our models.}
    
-3. astrostatics and machine learning.{  }
+3. Galaxies and dynamics{n-body simulation}
+4.   
+5. astrostatics and machine learning.{  }
+
